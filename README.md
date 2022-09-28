@@ -2,6 +2,11 @@
 
 Uma API para uma escola de inglês, utilizando o sequelize para fazer as manipulações no banco de dados MySQL. Projeto em andamento...
 
+
+## Diagrama Relacional do projeto
+
+<img src="Diagrama Relacional.jpg" width = 75%></img>
+
 ## Stack utilizada
 
 - Node
