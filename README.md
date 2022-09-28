@@ -5,7 +5,7 @@ Uma API para uma escola de inglês, utilizando o sequelize para fazer as manipul
 
 ## Diagrama Relacional do projeto
 
-<img src="Diagrama Relacional.jpg" width = 75%></img>
+<img src="Diagrama Relacional.jpg"></img>
 
 ## Stack utilizada
 
