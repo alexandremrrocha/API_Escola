@@ -33,6 +33,18 @@ Uma API para uma escola de inglês, utilizando o sequelize para fazer as manipul
 
 - Crie e configure um arquivo config.json para a conexão com seu banco
 
+- Rode o migrate
+  
+```bash
+  npx sequelize-cli db:migrate
+```
+
+- Rode as seeders
+
+```bash
+  npx sequelize-cli db:seed:all
+```
+
 - Inicie o servidor node
 
 ```bash
