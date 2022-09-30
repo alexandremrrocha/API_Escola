@@ -1,7 +1,6 @@
 # Escola de Inglês
 
-Uma API para uma escola de inglês, utilizando o sequelize para fazer as manipulações no banco de dados MySQL. Projeto em andamento...
-
+Uma API para uma escola de inglês, utilizando o sequelize para fazer as manipulações no banco de dados MySQL. 
 
 ## Diagrama Relacional do projeto
 
@@ -44,7 +43,6 @@ Uma API para uma escola de inglês, utilizando o sequelize para fazer as manipul
 ```bash
   npx sequelize-cli db:seed:all
 ```
-
 - Inicie o servidor node
 
 ```bash
