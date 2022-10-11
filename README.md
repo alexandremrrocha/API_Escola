@@ -17,6 +17,7 @@ Uma API para uma escola de inglês, utilizando o sequelize para fazer as manipul
 
 - MySQL
 - Sequelize
+- Soft Delete
 
 ## Rodando localmente
 
