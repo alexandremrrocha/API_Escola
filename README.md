@@ -18,6 +18,7 @@ Uma API para uma escola de inglês, utilizando o sequelize para fazer as manipul
 - MySQL
 - Sequelize
 - Soft Delete
+- Transaction: alterações no banco com segurança (metodo utiliza o COMMIT e ROLLBACK, se necessario)
 
 ## Rodando localmente
 
